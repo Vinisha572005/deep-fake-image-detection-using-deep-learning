@@ -171,15 +171,14 @@ The project uses a Convolutional Neural Network (CNN) consisting of:
 # 📸 Screenshots
 
 ## Home Page
-
-<img width="1365" height="678" alt="output1" src="https://github.com/user-attachments/assets/8aae69e8-6f23-4d55-b13f-acbf3fb41b7f" />
+<img width="1365" height="727" alt="output1" src="https://github.com/user-attachments/assets/c1b383a4-866d-4f55-8bd2-14c525ab90d4" />
 
 
 ## Prediction Result
 
-_<img width="1365" height="620" alt="output3" src="https://github.com/user-attachments/assets/8eb0ef04-f30e-404c-bf98-919c2cb11403" />
+<img width="1357" height="727" alt="output2" src="https://github.com/user-attachments/assets/e2841896-444b-4395-a719-480d14138cf1" />
 
-<img width="1357" height="620" alt="output4" src="https://github.com/user-attachments/assets/88be9637-3b38-4949-929f-fd3610d5c1e2" />
+<img width="1365" height="729" alt="output3" src="https://github.com/user-attachments/assets/9e50e2e7-3f6c-4a9c-ace0-b77f02f7d7ba" />
 
 ---
 
